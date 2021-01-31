@@ -57,6 +57,7 @@ export default function ContributorsPage({ contributors }) {
             </p>
           </Widget.Content>
         </Widget>
+        
         <div
           style={{
             display: 'grid',
