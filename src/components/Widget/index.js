@@ -35,6 +35,7 @@ Widget.Header = styled.header`
 
 Widget.Content = styled.div`
   padding: 24px 32px 32px 32px;
+  color: ${({ theme }) => theme.colors.primary};
   & > *:first-child {
     margin-top: 0;
   }
@@ -58,7 +59,7 @@ Widget.Topic = styled.a`
   border-radius: ${({ theme }) => theme.borderRadius};
   transition: .3s;
   display: block;
-
+  
   &:hover,
   &:focus {
     opacity: .5;

@@ -22,15 +22,16 @@ const Button = styled.button`
     opacity: .5;
   }
 
-  &:disabled{
+  &:disabled {
+    opacity: 0.5;
     background-color: #979797;
     cursor: not-allowed;
   }
 `;
 
 Button.propTypes = {
-    type: PropTypes.oneOf(['submit', 'type', 'button']).isRequired,
-    children: PropTypes.node.isRequired
-}
+  type: PropTypes.oneOf(['submit', 'type', 'button']).isRequired,
+  children: PropTypes.node.isRequired,
+};
 
-export default Button
+export default Button;

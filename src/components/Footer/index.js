@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from 'styled-components';
 
 // src/components/Footer/index.js
@@ -38,7 +37,7 @@ export default function Footer(props) {
         {' '}
         a
         {' '}
-        <a href="https://github.com/Tuhh16">
+        <a href="https://www.alura.com.br/">
           <span>Imersão React da Alura</span>
         </a>
       </p>

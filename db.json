@@ -1,40 +1,66 @@
 {
     "bg": "/img/theme-default-wallpaper.jpg",
-    "title": "Quiz CSS da Alura",
+    "title": "Quiz da Alura sobre Pokemon",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "url": "https://aluraquiztuhh.tuhh16.vercel.app/",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://thumbs.gfycat.com/AcclaimedUnsightlyAngelfish-small.gif",
+        "title": "Qual Foi o ano de lançamento do primeiro jogo de Pokemon?",
+        "description": "",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "1994",
+          "1995",
+          "1996",
+          "1997"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://24.media.tumblr.com/5177f8969fdace7e51010ccebb458f8e/tumblr_mfkcjxH6uC1rxy39eo1_500.gif",
+        "title": "Quantos Pokemon existem na região de Kanto?",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "151",
+           "150",
+           "149"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/79/7b/4f/797b4fdb341bf8b4dea798b45f7352f3.gif",
+        "title": "Quais tipos de Pokemon são usados nos 3 primeiros ginasios da região de Kanto?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Fogo, Planta e Lutador",
+           "Pedra, Aguá e Elétrico",
+           "Psíquico, Normal e Inseto"
+        ]
+      },
+      {
+        "image": "https://1.bp.blogspot.com/-xPlM0Ojchs4/XYKsxungeFI/AAAAAAAAB3I/VE1EOytuJVINlV9Zy-RtRAxUSNQubg35gCLcBGAsYHQ/s1600/maxresdefault.jpg",
+        "title": "Qual é o nome do lider do Ginasio de Viridian?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Lt. Surge",
+           "Koga",
+           "Giovanni",
+           "Blaine"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
-        "primary": "#0d47a1",
+        "primary": "#1a1a1a",
         "secondary": "#29b6f6",
-        "mainBg": "#171B35",
+        "mainBg": "#f2f2f2",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
