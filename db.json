@@ -1,7 +1,7 @@
 {
     "bg": "/img/theme-default-wallpaper.jpg",
     "title": "Quiz da Alura sobre Pokemon",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "Teste os seus conhecimentos sobre Pokemon",
     "url": "https://aluraquiztuhh.tuhh16.vercel.app/",
     "questions": [
       {
